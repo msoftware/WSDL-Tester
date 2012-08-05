@@ -35,6 +35,6 @@ if (isset ($_FILES['datei']) && strlen ($_FILES['datei']['name']) > 0)
 	
 }
 ?>
-
+</pre>
 </body>
 </html>
